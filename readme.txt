@@ -1,1 +1,1 @@
-This file shows info about project
+Author Shuliupov Yehor
